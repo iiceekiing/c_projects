@@ -1,6 +1,5 @@
 ---
 
-```md
 # C Programming Portfolio — Project-Based Learning
 
 
