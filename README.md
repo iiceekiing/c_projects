@@ -23,7 +23,6 @@ This repository is a curated collection of real-world C programming projects, wr
 
 ## 🗂️ Repository Structure
 
-```
 
 c\_projects/
 ├── 001\_hello\_world/
@@ -34,7 +33,6 @@ c\_projects/
 ├── 004\_simple\_calculator/
 ├── ...
 
-```
 
 Each project folder contains:
 - Modular and readable C source files
